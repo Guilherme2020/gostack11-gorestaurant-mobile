@@ -114,7 +114,7 @@ const Dashboard: React.FC = () => {
         <SearchInput
           value={searchValue}
           onChangeText={setSearchValue}
-          placeholder="Qual comida você procura?"
+          placeholder="Qual Produto você procura?"
         />
       </FilterContainer>
       <ScrollView>
